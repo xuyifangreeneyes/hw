@@ -15,4 +15,5 @@ Login the dashboard through http://127.0.0.1:2379/dashboard to watch Key Visuali
 ![](pattern.png)
 
 Here is the original portrait of Lisa.
-![](lisa.png)
+
+<img src="lisa.png" width="40%"/>
